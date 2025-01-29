@@ -1,0 +1,58 @@
+article, aside {
+    border: 2px dashed red;
+    text-align: center;
+    float: left;
+    padding-top: 15px;
+    font-size: 2.0vw;
+}
+section {
+    width: 850px;
+    height: 750px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.art1, .art2 {
+    width: 398px;
+    height: 200px;
+    float: left;
+    margin-bottom: 15px;
+}
+.art1 {
+    margin-right: 15px;
+}
+.art3 {
+    width: 600px;
+    height: 450px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+aside {
+    width: 198px;
+    height: 450px;
+}
+.art5 {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.art4, .art5, .art6 {    
+    height: 200px;
+    width: 260px;
+    float: left;
+}
+div {
+    width: 850px;
+    height: 750px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 100%;
+    height: 215px;
+    border-top: 2px dashed red;
+    border-bottom: 2px dashed red;
+    float: left;
+}
