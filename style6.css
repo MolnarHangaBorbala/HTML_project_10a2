@@ -1,0 +1,92 @@
+article, nav, aside, section {
+    float:left;
+    text-align: center;
+    border: 2px dashed red;
+    padding-top: 10px;
+}
+#div2 {
+    height: auto;
+    width: 970px;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav{
+    width: 945px;
+    height: 20px;
+    margin-bottom: 20px;
+    margin-top: 1px;
+}
+aside{
+    height: 700px;
+    width: 200px;
+}
+section {
+    width: 500px;
+    height: 700px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#article4 {
+    margin-top: 20px;
+}
+#article4, #article5 {
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    height: 300px;
+    width: 460px;
+}
+header, footer {
+    border-top: 2px dashed red;
+    border-bottom: 2px dashed red;
+    width: 100%;
+    height: auto;
+    float: left;
+}
+#article1, #article2, #article3 {
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
+#div1 {
+    height: auto;
+    width: 970px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#article2 {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+footer{
+    width: 100%;
+    height: auto;
+}
+#article6, #article7, #article8, #article9 {
+    height: 200px;
+    width: 220px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
+#article6 {
+    margin-right: 20px;
+}
+#article7 {
+    margin-right: 20px;
+}
+#article8 {
+    margin-right: 20px;
+}
+#foo {
+    width: 945px;
+    height: 20px;
+    margin-bottom: 20px;
+    margin-top: 1px;
+    float:left;
+    text-align: center;
+    border: 2px dashed red;
+    padding-top: 10px;
+}
