@@ -1,0 +1,69 @@
+/*Molnár Hanga Borbála*/
+.logo, .title, nav, section, article, aside, footer, header {
+    border: 2px dashed red;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 15px;
+    font-size: 2.0vw;
+}
+
+.center {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.center>nav,.center>aside {
+    width: 10%;
+    height: 600px;
+    margin-right: 15px;
+}
+
+section>article {
+    height: 250px;
+}
+
+.center>section {
+    width: 40%;
+    height: 600px;
+    margin-right: 15px;
+    padding: 20px;
+}
+
+.center1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.center1>article {
+    width: 20%;
+    height: 150px;
+    margin-right: 15px;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+footer>article {
+    width: 20%;
+    margin-right: 15px;
+}
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+header>.logo {
+    width: 10%;
+    margin-left: 10px;
+}
+
+header>.title {
+    width: 44%;
+    margin-right: 25px;
+}
