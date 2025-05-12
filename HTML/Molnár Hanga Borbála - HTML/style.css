@@ -1,0 +1,9 @@
+#list-styles li {
+    list-style-type: georgian;
+}
+
+#list-with-icons li {
+    list-style-image: url(icons/eye.png);
+    float: left;
+    margin-left: 50px;
+}
