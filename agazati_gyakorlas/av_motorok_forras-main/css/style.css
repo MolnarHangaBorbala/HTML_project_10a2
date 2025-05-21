@@ -35,6 +35,8 @@ h3{
 
 li{
     list-style-image: url(../img/panni-icon.png);
+    margin-left: 40px;
+    float: left;
 }
 
 
@@ -54,4 +56,9 @@ thead>tr:first-child{
 
 .navbar {
     background-color:#f08080;
+}
+
+p {
+    text-align: justify;
+    text-indent: 15px;
 }
