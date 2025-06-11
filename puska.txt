@@ -1,0 +1,48 @@
+Oldal nyelvezet beálltása: <html lang="hu">
+Karakterkódolás: <meta charset="utf-8">
+Böngésző lapfül: <title>Citrusfélék</title>
+Stíluslap importálása: <link rel="stylesheet" href="css/style.css">
+Header magasság: height:350px;
+Háttérkép hozzárendelés: backgroud-image: url(img/bg2.jpg)
+Főcím elemkijelölő: h1
+Főcím áttetszőség: color: rgba(248, 248, 248, 0.75)
+Betűtipus(Verdana): font-family: Verdana;
+h1 betűszín: color: #416618;
+Félkövér betű: font-weight: bold;
+Navbar elemkijelölő háttérszínnel: .navbar{background-color: #fd8800;}
+Új menüpont: <a class="nav-link" href="https://hu.wikipedia.org/wiki/Citrusform%C3%A1k" target="_blank">További
+2-es szintű cím: h2
+h2 betűszín: color: #416618;
+3 pixeles, pontozott adott színű szegély: border-left: 3px dotted #416618;
+Kiskapitális: font-variant: small-caps;
+Belső margó beállítása(függ.,vízsz.): padding: 5px 15px;
+3 oszlopos beállítás(Bootstrap-grid-system): class="col-lg-4"
+Reszponzív kép: class="img-fluid img-thumbnail"
+Oszlop tartalom hozzáadása: Teljes megelőző oszlop másolása és a két megadott oszlop közé beilleszteni! A tartalom módosítása leírásnak megfelelően.
+Új bekezdésbe helyezés, Jobbra igazítás Bootstrap-el, legyen hivatkozás.
+Osztálykijelölő hozzáadása: <p class="text-right"><a href="mandarin.html" class="btn btn-outline-success">Részletesen a mandarinról</a></p>
+Félkövér kiemelés: <b></b>
+Dőltbetűs kiemelés: <i></i>
+3-as szintű elem: h3
+Alcím középre ig.: text-align:center;
+30%-al nagyobb betűméret: font-size: 1.3rem;
+Betűritkítás(1pixel): letter-spacing: 1px;
+Elemkijelölő létrehozása a bekezdésekhez: p {}
+Sorkizárt stílus: text-align:text-justify;
+Első sor behúzása(15pixel): text-indent: 15px;
+Számozatlan felsorolás: 
+    <ul>
+        <li>...</li>
+        <li>...</li>
+        <li>...</li>
+    </ul>
+Elemek balra úsztatása(az <li> tipusú elemekre!): float: left;
+Bal margó(pl.: 40px): margin-left: 40px;
+Táblázat adatcella: <td>...</td>
+Táblázat fejléccella: <th>...</th>
+Fejléccellák összevonása(ha nyolc oszlopos): colspan="8"
+    példa:<th colspan="8">100 g mandarin tartalmaz</th>
+Táblázatra Bootstrap table és table-striped osztályok: class="table table-striped"
+A táblázat első sora: thead>tr:first-child
+Betűritkítás(2pixel): letter-spacing: 2px;
+Átalakítás nagybetűre: text-transform: uppercase; 
